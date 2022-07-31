@@ -1,2 +1,2 @@
 # Sedimentology
-1.Udden-Wentworth scale
+1. Udden-Wentworth scale
